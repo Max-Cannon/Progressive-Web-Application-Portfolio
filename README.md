@@ -1,2 +1,3 @@
 # Progressive-Web-Application-Portfolio
-GitHub Pages
+Max Cannon - Resume/Portfolio in a PWA (Progressive Web Application)
+
